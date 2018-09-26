@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EjemploAccountKit</string>
+    <string name="fb_app_id">695473890820467</string>
+    <string name="ak_client_token">a53ba37c0b33286fa701de5afeb404b2</string>    
 </resources>
